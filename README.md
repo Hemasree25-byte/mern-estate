@@ -46,5 +46,5 @@ cd mern-estate
     
 ## Conclusion
 
-This project has provided invaluable experience in full stack web development and demonstrates the practical application of these skills in solving real-world problems.
+This project has provided invaluable experience in full stack web development,encompassing front-end and back-end technologies, user authentication, and responsive design principles and demonstrates the practical application of these skills.
 
